@@ -1,0 +1,27 @@
+{
+  "courseName": "RAZ G",
+  "name": "Bob Wang",
+  "totalHours": 20,
+  "usedHours": 1,
+  "payments": [
+    {"date": "2026-05-01", "hours": 20, "amount": 3000, "firstLessonDate": null}
+  ],
+  "monthlyStats": [],
+  "records": [
+    {
+      "date": "2026-04-28",
+      "time": "周二",
+      "courseName": "RAZ G",
+      "lessonTitle": "The Animal Kingdom",
+      "keyKnowledge": [
+        "Animal classification: mammals, reptiles, birds, fish",
+        "Comparative adjectives: bigger, smaller, faster",
+        "Habitat vocabulary: ocean, forest, desert"
+      ],
+      "homework": [
+        "Read RAZ G book 'Animal Groups' and complete quiz",
+        "Pick 3 animals and write comparison sentences"
+      ]
+    }
+  ]
+}
