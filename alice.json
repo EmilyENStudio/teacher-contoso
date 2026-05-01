@@ -1,0 +1,42 @@
+{
+  "courseName": "Power Up 2",
+  "name": "Alice Chen",
+  "totalHours": 30,
+  "usedHours": 2,
+  "payments": [
+    {"date": "2026-04-20", "hours": 30, "amount": 4500, "firstLessonDate": "2026-04-25"}
+  ],
+  "monthlyStats": [{"month": "2026-04", "hours": 2}],
+  "records": [
+    {
+      "date": "2026-04-25",
+      "time": "周六",
+      "courseName": "Power Up 2",
+      "lessonTitle": "Unit 1: My Day",
+      "keyKnowledge": [
+        "Daily routine vocabulary: wake up, brush teeth, have breakfast",
+        "Present Simple: I get up at 7 o'clock",
+        "Time expressions: in the morning, at night"
+      ],
+      "homework": [
+        "Write 5 sentences about your daily routine",
+        "Draw a picture of your morning and label in English"
+      ]
+    },
+    {
+      "date": "2026-05-02",
+      "time": "周六",
+      "courseName": "Power Up 2",
+      "lessonTitle": "Unit 1: Days of the Week",
+      "keyKnowledge": [
+        "Days of the week: Monday to Sunday",
+        "What do you do on...? I play tennis on Saturday",
+        "Prepositions of time: on + day, in + morning/afternoon"
+      ],
+      "homework": [
+        "Complete the days of the week worksheet",
+        "Ask 3 family members about their weekly activities"
+      ]
+    }
+  ]
+}
